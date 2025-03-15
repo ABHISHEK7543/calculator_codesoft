@@ -9,3 +9,4 @@ This is a sleek and modern calculator built with **HTML**, **CSS**, and **JavaSc
 - Supports keyboard input (numpad included!)
 - Shows `×` and `÷` for multiplication and division
 - Easy to clear, erase, and calculate percentages
+@codesoft
